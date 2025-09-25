@@ -46,8 +46,11 @@ pnpm run dev
 
 
 Earth Asset Civilization Oracle
+
 e&EACO(Earth’s Best Coin),
+
 EACO is Earth’s best friend;
+
 ca:
 DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 
@@ -73,7 +76,9 @@ https://t.me/e_usdc
 e-usdt, https://app.meteora.ag/dlmm/6ZfCi3qzhgDN1ygHVYXvfsfrwz8ZhQ7hD5mJtjeuUDyE
 
 e-usdc,
+
 https://www.orca.so/pools/Cm6EkxcYNfvxeYDBQ3TGXFqa9NCWvrFKHz4Cfju91dhr
+
 https://www.orca.so/pools?tokens=DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 
 
